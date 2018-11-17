@@ -25,7 +25,7 @@ In fact, this kernel is a reference for **ten other kernels**, which you can lea
 for Reading this section **please** fork and upvote  this kernel:
 
 [numpy-pandas-matplotlib-seaborn-scikit-learn](https://www.kaggle.com/mjbahmani/numpy-pandas-matplotlib-seaborn-scikit-learn)
-# 1-1 Why you sdould use python?
+# 1-1 Why you should use python?
 As **machine learning engineer** I would like to compare 4 machine learning programming languages(tools). Let's take this a bit deeper. Since most of us are concerned with ML and analysis being a big part of why we are using these programs. I want to list a few advantages and disadvantages of each for who want to start learning them as a data scientist.
 ##1-1-1 R
 R is a language and environment for statistical computing and graphics. It is a GNU project which is similar to the S language and environment which was developed at Bell Laboratories (formerly AT&amp;T, now Lucent Technologies) by **John Chambers** and colleagues. **R** can be considered as a different implementation of S. There are some important differences, but much code written for S runs unaltered under R.
